@@ -1,4 +1,4 @@
-<a href="https://github.com/simonwairimu-hash/POWER-BI/blob/main/BIKE_SALES.jpg?raw=true" > dashboard </a>
+<a href="https://github.com/simonwairimu-hash/POWER-BI/blob/main/BIKE_SALES.jpg" > dashboard </a>
 
 This dashboard provides a comprehensive analysis of bike sales, 
 focusing on four key areas.
