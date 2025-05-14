@@ -124,5 +124,5 @@ Our primary data lives in three CSV files, totaling ~150 K rows:
 ## License & Contact
 
 Distributed under the MIT License.  
-Questions? Reach me at simon@example.com.  
+Questions? Reach me at simontheanalyst0@gmail.com.  
 Happy analyzing! 🚲
